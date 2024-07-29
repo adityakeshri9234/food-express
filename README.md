@@ -18,3 +18,5 @@ Designed and built a responsive food delivery web app using MongoDB, Express, Re
  
  Utilized MongoDB to store user information, food details, and order histories, ensuring data integrity and accessibility.
  Implemented separate admin and user sections, including features for user login, logout, and order tracking.
+
+![image](https://github.com/user-attachments/assets/c8ed322b-d8b2-4079-bedf-6bc07e8f5920)
